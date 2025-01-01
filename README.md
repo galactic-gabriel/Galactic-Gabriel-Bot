@@ -15175,7 +15175,7 @@
 <p align="center">  
   <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
-    <h1 align="center"> BMW BWB MADE BY IBRAHIM ADAMS</h1>
+    <h1 align="center"> MADE BY GALACTIC GABRIEL </h1>
   </a>
 </p>  
   
@@ -15222,7 +15222,7 @@
 
 
 
-### 🧚‍♀️IBRAHIM ADAM'S💫
+### 🧚‍♀️GALACTIC GABRIEL💫
 
 ***
 
@@ -15254,7 +15254,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
- # ⚡ BMW INFO
+ # ⚡ GABRIEL TECH INFO
 ***
 
 </p>
@@ -15346,12 +15346,12 @@ In conclusion, the ChatBot solution presented here provides an efficient and use
 We welcome any feedback or suggestions you may have to help improve the chatbot solution further. With the ability to integrate with different messaging platforms and services, this solution can be adapted to various use cases and industries. As the chatbot ecosystem continues to grow, we believe that solutions like this will play an increasingly important role in providing seamless and efficient interactions between users and services.
 
 
-[Ibrahim Adams Code](.)
+[GALACTIC GABRIEL Code](.)
 
 
 
 
-[BMW MD COPY](.)
+[GALACTIC GABRIEL COPY](.)
 
 
 
