@@ -18,10 +18,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https:// github.com/galactic-gabriel"><img title="GITHUB" src="https://img.shields.io/badge/GABRIEL TECH Orange.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
+<a href="https://github.com/galactic-gabriel?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
@@ -36,7 +36,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GALACTIC-GABRIEL-BOT" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -128,8 +128,8 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://api.giftedtech.my.id/contact) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
+- **[CONTACT SUPPORT](0716427334) For More Info**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vb2EGmDEawdzIQFNNP2D) for Daily Updates.**
 - **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
 </details>
 
@@ -137,6 +137,6 @@
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
+[![GALACTIC-GABRIEL-BOT](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
